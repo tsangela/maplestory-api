@@ -1,4 +1,4 @@
-# maplestory-api"
+# maplestory-api
 
 0. Install requirements
     - Set up venv with Python: `python -m venv <path to venv ex. ~/.venv/omok>`
